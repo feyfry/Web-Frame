@@ -1,0 +1,39 @@
+/*CSS*/
+
+/* Penganturan Pada Body */
+body {
+    background-color: antiquewhite;
+}
+
+/*Class Tersebut Berfungsi Untuk Mengganti Warna Pada Link Di Beberapa Halaman Yang Sudah Dibuat*/
+.situs a {
+    color: darkorchid;
+}
+
+.situs a:hover {
+    color: seagreen;
+}
+
+/*Class Yang Terdapat Pada Bagian Halaman Menu kiri.html*/
+.menu a {
+    text-decoration: none;
+    color: darkred;
+}
+
+.menu a:hover {
+    color: deeppink;
+}
+
+/* Terdapat Pada Bagian Kontak*/
+.tablekontak {
+    color: darkred;
+    padding-left: 20px;
+}
+
+.kolom1 {
+    width: 20%;
+}
+
+.kolom2 {
+    width: 80%;
+}
